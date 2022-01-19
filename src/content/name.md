@@ -41,7 +41,9 @@ I'm also a math nerd, and triangles are tastier. Δ ■
 
 ### What if you still call me _Danielle/Danii/Dani/D_?
 
-I don't control your actions, and you can choose to do whatever you please, but not without consequences. I view the acceptance and use of my chosen name as an act of care. If I were to insist on calling you by a name you didn't feel connected to, you might also feel disconnected from me.
+I don't control your actions, and you can choose to do whatever you please, but not without consequences. I view the acceptance and use of my chosen name as an act of care. If I were to insist on calling you by a name you didn't feel connected to after you've asked me not to, you might also feel disconnected from me.
+
+Mistakes will happen, and they're okay! Correcting yourself as soon as you realize, even when I'm not around, is also an act of care.
 
 I've outgrown these names like old shoes. More recent ones might barely fit with some discomfort, but _Danielle_ really feels like trying to put baby shoes on my big toes and expecting that to be good enough.
 
