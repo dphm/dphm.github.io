@@ -47,6 +47,8 @@ Mistakes will happen, and they're okay! Correcting yourself as soon as you reali
 
 I've outgrown these names like old shoes. More recent ones might barely fit with some discomfort, but _Danielle_ really feels like trying to put baby shoes on my big toes and expecting that to be good enough.
 
+I will not be providing support for pre-release versions of mental models of me if you don't want to update to the latest version.
+
 ### Will I change my name officially?
 
 Maybe. I just might do it all at once and string [_Coco_](https://alexcoco.com) on the end.
