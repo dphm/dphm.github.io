@@ -7,7 +7,7 @@ _I change over time._
 
 ## My mother named me _Danielle_
 
-My mother, a Roman Catholic, phoned a friend and chose _Danielle_, the feminine version of the biblical Hebrew name, _Daniel_. _Daniel_ means "God is my judge," and in his story he survived in a lion's den and didn't abandon his trust in God.
+My mother, a Roman Catholic, phoned a friend and chose _Danielle_, the feminine version of the biblical Hebrew name, _Daniel_. _Daniel_ means _"God is my judge,"_ and in his story he survived in a lion's den and didn't abandon his trust in God.
 
 I don't believe in God, so maybe I don't think anyone should judge me and expect to get any value out of it. What aspects of me are they judging? I change over time.
 
@@ -27,11 +27,11 @@ I knew I wasn't going to be _D_ forever, I just didn't know what name I felt con
 
 ## Time
 
-My brain was still active after finishing _Minor Feelings_ by [Cathy Park Hong](http://www.cathyparkhong.com/books). I thought about the impending name collision when my coworker Di would return from parental leave. After thinking of a handful of options, Delta came to me, and I felt a moment of pure [gender euphoria](https://gender.fandom.com/wiki/Gender_Euphoria) and excitement.
+My brain was still active after finishing _Minor Feelings_ by [Cathy Park Hong](http://www.cathyparkhong.com/books). I thought about the impending name collision when my coworker Di would return from parental leave. After thinking of a handful of options, _Delta_ came to me, and I felt a moment of pure [gender euphoria](https://gender.fandom.com/wiki/Gender_Euphoria) and excitement.
 
 ## Delta represents change
 
-I read _Parable of the Sower_ by Octavia E. Butler, in which Lauren Olamina writes, "God is change." Again, I don't believe in God, but I do have my own way of connecting to something beyond myself.
+I read _Parable of the Sower_ by Octavia E. Butler, in which Lauren Olamina writes, _"God is change."_ Again, I don't believe in God, but I do have my own way of connecting to something beyond myself.
 
 The universe is vastly complex: creative, destructive, transformative. I believe I came to exist by coincidence, by some particular circumstances governed by the nature of physics and entropy. I am what I am through processes of evolution and adaptation of the human species over generations.
 
@@ -41,9 +41,13 @@ I'm also a math nerd, and triangles are tastier. Δ ■
 
 ### What if you still call me _Danielle/Danii/Dani/D_?
 
-I don't control your actions, and you can choose to do whatever you please, but not without consequences. I view the acceptance and use of my chosen name as an act of care. If I were to insist on calling you by a name you didn't feel connected to, you might also feel disconnected from me.
+I don't control your actions, and you can choose to do whatever you please, but not without consequences. I view the acceptance and use of my chosen name as an act of care. If I were to insist on calling you by a name you didn't feel connected to after you've asked me not to, you might also feel disconnected from me.
+
+Mistakes will happen, and they're okay! Correcting yourself as soon as you realize, even when I'm not around, is also an act of care.
 
 I've outgrown these names like old shoes. More recent ones might barely fit with some discomfort, but _Danielle_ really feels like trying to put baby shoes on my big toes and expecting that to be good enough.
+
+I will not be providing support for pre-release versions of mental models of me if you don't want to update to the latest version.
 
 ### Will I change my name officially?
 
@@ -53,6 +57,6 @@ Maybe. I just might do it all at once and string [_Coco_](https://alexcoco.com) 
 
 When you're unsure if someone knows about my name when speaking about me, casually inform them before going on as usual:
 
-> {Danielle/Danii/Dani/D} changed their name to Delta.
+> _{Danielle/Danii/Dani/D}_ changed their name to _Delta_.
 
 Thank you!
