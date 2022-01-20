@@ -5,17 +5,18 @@ import Page from '../components/Page'
 import IndexLayout from '../layouts'
 
 const IndexPage = () => (
-  <IndexLayout pageTitle="Hello, my name is D!">
+  <IndexLayout pageTitle="Hello, my name is Delta!">
     <Page>
       <h2>
         <span role="img" aria-label="speaking silhouette head">
           🗣
         </span>{' '}
-        Pronouns
+        Identifiers
       </h2>
-      <p>
-        <Link to="/pronouns">they/them/their</Link>
-      </p>
+      <ul>
+        <li><strong><Link to="/name">Name</Link>:</strong> Delta <span lang="vn">Phạm</span></li>
+        <li><strong><Link to="/pronouns">Pronouns</Link>:</strong> they/them/their</li>
+      </ul>
       <h2>
         <span role="img" aria-label="globe showing Americas">
           🌎

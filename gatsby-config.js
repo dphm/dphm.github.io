@@ -2,12 +2,12 @@
 
 module.exports = {
   siteMetadata: {
-    title: 'D Pham',
-    description: 'Info about D Pham',
+    title: 'Delta Pham',
+    description: 'Info about Delta Pham',
     siteUrl: 'https://dpham.info',
     author: {
-      name: 'D Pham',
-      email: 'd@dpham.info',
+      name: 'Delta Pham',
+      email: 'delta@dpham.info',
       social: {
         instagram: 'https://instagram.com/dangernoodlepham',
         github: 'https://github.com/dphm',
@@ -25,8 +25,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'D Pham',
-        short_name: 'D Pham',
+        name: 'Delta Pham',
+        short_name: 'Delta Pham',
         start_url: '/',
         background_color: '#464650',
         theme_color: '#009595',

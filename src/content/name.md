@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Hello, my name is Delta'
+title: 'Hello, my name is Delta!'
 ---
 
 _I change over time._
