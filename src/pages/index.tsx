@@ -16,6 +16,7 @@ const IndexPage = () => (
       <ul>
         <li><strong><Link to="/name">Name</Link>:</strong> Delta <span lang="vn">Phạm</span></li>
         <li><strong><Link to="/pronouns">Pronouns</Link>:</strong> they/them/their</li>
+        <li><strong><Link to="/gender">Gender</Link>:</strong> non-binary</li>
       </ul>
       <h2>
         <span role="img" aria-label="globe showing Americas">
