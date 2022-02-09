@@ -66,7 +66,7 @@ I carried an intense amount of guilt, and I strived to protect my refugee parent
 
 When I eventually came to terms with being _non-binary_, I preferred not to request that anyone change their habits to make me more comfortable… until I found myself with a lovely group of supportive friends in New York who would rather be inconvenienced. My friends asked if I wanted to try using [they/them pronouns](/pronouns), and as more people consistently referred to me with _they/them_, I felt more understood. When I came back, the contrast between environments became more obvious, and every instance of _she/her_ reminded me of the disconnect.
 
-Ultimately, my gender affects how I comfortable I am showing up authentically in different environments. However, it's not the only important or interesting thing about me, so I don't want to be in-your-face about it, and I don't think it's always relevant.
+Ultimately, my gender affects how comfortable I am showing up authentically in different environments. However, it's not the only important or interesting thing about me, so I don't want to be in-your-face about it, and I don't think it's always relevant.
 
 ### I'm fairly optimistic about the future
 
