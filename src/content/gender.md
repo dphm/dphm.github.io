@@ -38,7 +38,7 @@ What if instead a doctor were trying to predict if you `0: absolutely do not hav
 
 If you assume I think or behave like most _women_, you might be wrong. In some cases I might be aligned with most _women_, but I don't find those cases accurate for predicting my feelings and actions.
 
-Some days I could be `1/3`, others `0.499` or `0.53`. It fluctuates. That's normal. I just try to accept that it is what it is, I don't always know how to measure it, and it won't always be in the same range for the rest of my life.
+Some days I could be `5/7`, others `0.499` or `0.53`. It fluctuates. That's normal. I just try to accept that it is what it is, I don't always know how to measure it, and it won't always be in the same range for the rest of my life.
 
 ### I identify as _trans_ because I don't think `1: woman` is accurate
 
