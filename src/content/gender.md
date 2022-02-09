@@ -22,13 +22,13 @@ Gender, race, socio-economic status, cultural norms, and many more factors all i
 
 I'm not an expert. I own books about gender that I have yet to read. There's lots of knowledge, research, and art by people who understand so much more about the topic.
 
-If I'm the first person you're aware of in your social circles who is non-binary or trans, it can seem like I know what I'm talking about, but I probably only know a small amount more in areas I've explored because of how they affect me day-to-day.
+If I'm the first person you're aware of in your social circles who is non-binary or trans, it can seem like I know what I'm talking about, but I probably only know a small amount more in areas that affect me day-to-day.
 
 I also had regrettable moments when friends shared experiences with me that I didn't initially understand. It's okay if you need time and practice to unlearn and challenge your existing mental model of gender and of how you percieve me. This kind of growth is usually uncomfortable, but you don't need to shame yourself when you make mistakes. As long as you're trying your best, I'm grateful, and we can face the discomfort together.
 
 ## On a scale of `0: man` to `1: woman`
 
-People tend to simplify things into binary, opposite categories. In reality, humans are a mess, and most of our traits exist on a spectrum between the two extremes. There are real, non-binary values between `0` and `1`, e.g. `0.001`, `1/9`, `0.5`, `0.9999`.
+People tend to simplify things into binary, opposite categories. In reality, humans are a mess, and most of our traits exist on a spectrum. There are real, non-binary values between `0` and `1`, e.g. `0.001`, `1/9`, `0.5`, `0.9999`.
 
 To make general observations about the difference between `0: men` and `1: women`, those values are usually rounded to the nearest integer. Both `0.5` or `0.9999` round up to `1`, but in practice the difference between them can be very significant.
 
