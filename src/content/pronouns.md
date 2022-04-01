@@ -7,7 +7,7 @@ title: 'My pronouns'
 
 ### Examples
 
-> D lives in Canada with **their** partner.  
+> Delta lives in Canada with **their** partner.  
 > I sat next to **them** at lunch.  
 > I thought the taco was mine, but it was actually **theirs**.  
 > Thankfully, **they** didn’t mind.  
