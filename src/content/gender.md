@@ -102,7 +102,7 @@ I hope you can encourage any children in your life to enjoy things and activitie
 
 I probably reject femininity more than I'd like to because it's been consistently devalued. Being non-binary doesn't have to mean _not_ expressing gender or needing to stay close to the middle. I've done that to avoid people making assumptions that I'm a _woman_.
 
-The binary gender model imposed by European settlers doesn't need to be the only one we accept. Indigenous peoples have been celebrating [two-spirit](https://twospiritmanitoba.ca/we-belong) well before colonization.
+The binary gender model imposed by European settlers doesn't need to be the only one we accept. Indigenous peoples have been celebrating [two-spirit](https://www.metisnation.org/wp-content/uploads/2022/09/2S-Awareness-Resource_2022a.pdf) well before colonization.
 
 ## Finally…
 
