@@ -1,16 +1,17 @@
 ---
-layout: page
+layout: notice
 title: 'My pronouns'
+permalink: /pronouns
 ---
 
 ## 🗣 they/them/their
 
 ### Examples
 
-> Delta lives in Canada with **their** partner.  
-> I sat next to **them** at lunch.  
-> I thought the taco was mine, but it was actually **theirs**.  
-> Thankfully, **they** didn’t mind.  
+> Delta lives in Canada with **their** partner.
+> I sat next to **them** at lunch.
+> I thought the taco was mine, but it was actually **theirs**.
+> Thankfully, **they** didn’t mind.
 > **They** care a lot about people other than **themself**.
 
 ### Context

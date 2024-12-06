@@ -1,0 +1,11 @@
+<div class="polaroid-wrapper">
+  <div class="tape bg-lavender" aria-hidden="true"></div>
+  <div class="polaroid">
+    {%- include {{ include.img_src }} -%}
+    {%- if include.caption_src -%}
+    <span class="caption">{%- include {{ include.caption_src }} -%}</span>
+    {%- else if include.caption -%}
+    <span class="caption">{{ include.caption }}</span>
+    {%- endif -%}
+  </div>
+</div>

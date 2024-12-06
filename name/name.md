@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: notice
 title: 'Hello, my name is Delta!'
+permalink: /name
 ---
 
 _I change over time._

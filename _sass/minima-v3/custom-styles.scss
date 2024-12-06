@@ -1,0 +1,292 @@
+// Accessibility
+
+.skip-link {
+  position: absolute;
+  top: -3em;
+  background: $code-background-color;
+
+  &:focus {
+    top: 0;
+  }
+}
+
+.visually-hidden,
+.visually-hidden-focusable:not(:focus):not(:focus-within) {
+  border: 0 !important;
+  clip: rect(0, 0, 0, 0) !important;
+  height: 1px !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  padding: 0 !important;
+  white-space: nowrap !important;
+  width: 1px !important;
+}
+
+.visually-hidden:not(caption),
+.visually-hidden-focusable:not(:focus):not(:focus-within):not(caption) {
+  position: absolute !important;
+}
+
+// Typography
+
+h1, h2, h3, h4, h5, h6 {
+  color: $primary-color;
+}
+
+a {
+  text-decoration: underline;
+}
+
+a:hover {
+  color: $primary-color;
+}
+
+blockquote {
+  border-color: $secondary-color;
+  color: $secondary-color;
+  padding: $spacing-unit / 2;
+}
+
+.emoji {
+  font-style: normal;
+}
+
+// Layout
+
+#content {
+  margin-bottom: $spacing-unit;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.full-width {
+  display: flex;
+  flex: 1 0 100%;
+  justify-content: center;
+}
+
+.constrain-width {
+  width: $content-width;
+}
+
+.site-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: $spacing-unit / 2;
+  border: 0;
+
+  nav a {
+    text-decoration: none;
+  }
+
+  nav a:hover {
+    text-decoration: underline;
+  }
+}
+
+.site-footer {
+  display: flex;
+  justify-content: space-evenly;
+  border-top: none;
+  background-color: $code-background-color;
+}
+
+.page-title {
+  margin: 0;
+}
+
+.page-content {
+  display: flex;
+  padding: 0;
+  margin-bottom: $spacing-unit;
+}
+
+.contact-list {
+  li#email::before {
+    content: "📧 ";
+  }
+}
+
+.social-media-list {
+  margin: 0;
+
+  li {
+    margin: 0;
+    margin-right: 2px;
+
+    a {
+      border: none;
+      padding: 0;
+    }
+  }
+}
+
+// Code
+
+pre {
+  border: none;
+  border-radius: 0;
+  box-shadow: 0 2px $border-color;
+}
+
+code.language-plaintext {
+  color: $primary-color;
+}
+
+// Tables
+
+th {
+  color: $background-color;
+}
+
+// Elements
+
+.tape {
+  position: relative;
+  top: $spacing-unit / 2;
+  left: $spacing-unit / 2;
+  z-index: 1;
+  width: calc(100% - #{$spacing-unit});
+  height: $spacing-unit;
+  background-color: $border-color;
+  opacity: 0.25;
+
+  + * {
+    margin-top: $spacing-unit;
+    position: relative;
+    top: -$spacing-unit;
+  }
+}
+
+.polaroid {
+  background-color: white;
+  padding: $spacing-unit / 3;
+  box-shadow: 0 2px $gray-light;
+  display: flex;
+  flex-direction: column;
+
+  img {
+    box-shadow: 0 2px $border-color;
+  }
+
+  .caption {
+    margin-top: $spacing-unit / 3;
+    font-size: $base-font-size;
+    line-height: $base-font-size;
+    color: $secondary-color-light;
+    text-align: center;
+    font-style: italic;
+  }
+}
+
+.notice {
+  padding: $spacing-unit;
+  margin-bottom: $spacing-unit;
+  background-color: white;
+  color: $gray-dark;
+  box-shadow: 0 2px $border-color;
+
+  .notice-title {
+    font-size: xx-large;
+    text-align: center;
+    color: $primary-color-light;
+  }
+
+  blockquote {
+    color: $gray-medium;
+    background-color: lighten($primary-color-light, 50%);
+  }
+}
+
+.card-wrapper {
+  display: flex;
+  flex-direction: column;
+  margin: $spacing-unit / 2;
+}
+
+.card {
+  flex: 1 1 auto;
+  box-shadow: 2px solid $border-color;
+
+  .card-header {
+    margin: 0;
+    padding: $spacing-unit / 2;
+    border-radius: $border-radius $border-radius 0 0;
+    background-color: $primary-color;
+
+    h1, h2, h3, h4, h5, h6 {
+      color: $code-background-color;
+    }
+  }
+
+  .card-title {
+    margin-bottom: 0;
+    text-align: center;
+  }
+
+  .card-content {
+    padding: $spacing-unit;
+    border: 4px solid $primary-color;
+    border-radius: 0 0 $border-radius $border-radius;
+    background-color: $code-background-color;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: $secondary-color;
+  }
+
+  ul {
+    margin: 0;
+    list-style: none;
+  }
+}
+
+.card-secondary {
+  .card-header {
+    background-color: $secondary-color;
+  }
+
+  .card-content {
+    border-color: $secondary-color;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: $primary-color;
+  }
+}
+
+.values {
+  text-transform: lowercase;
+
+  li p::before {
+    content: "> ";
+  }
+}
+
+// Modifiers
+
+.bg-primary {
+  background-color: $primary-color !important;
+}
+
+.bg-secondary {
+  background-color: $secondary-color !important;
+}
+
+.bg-lavender {
+  background-color: $lavender !important;
+}
+
+.bg-yellow {
+  background-color: $yellow !important;
+}
+
+.bg-purple {
+  background-color: $purple !important;
+}
+
+.bg-blue {
+  background-color: $blue !important;
+}

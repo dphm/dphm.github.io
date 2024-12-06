@@ -1,0 +1,42 @@
+# Site settings
+
+title: Delta Phạm
+author:
+  name: Delta Phạm
+  email: delta@dpham.info
+description: Info about Delta Phạm
+baseurl: ""
+url: "https://dpham.info"
+lang: en-CA
+
+github_username: dphm
+linkedin_username: dphm
+facebook_username: dangernoodlepham
+instagram_username: dangernoodlepham
+gravatar_hash: 0d532ec5369d51019dfd7f75ef08591130beb0122844386b553336cc48658a4f
+
+# Build settings
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

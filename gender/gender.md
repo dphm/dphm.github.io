@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: notice
 title: 'Hello, I am non-binary!'
+permalink: /gender
 ---
 
 Since sharing the reasoning behind my [name](/name), I've had more conversations about gender. Hopefully this will give you some insight into my relationship to gender and its importance in my life.

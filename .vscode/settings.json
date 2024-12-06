@@ -10,10 +10,9 @@
   "files.trimTrailingWhitespace": true,
   "files.insertFinalNewline": true,
   "search.exclude": {
-    "public/**": true,
-    "node_modules/**": true
+    "_site/**": true
   },
-  "[markdown]": {
-    "files.trimTrailingWhitespace": false
+  "[html]": {
+    "files.insertFinalNewline": false
   }
 }

@@ -1,0 +1,18 @@
+<div class="card-wrapper">
+  <div class="tape {%- if include.tape_color -%}{{ include.tape_color | prepend: ' bg-' }}{%- endif -%}"
+    aria-hidden="true"></div>
+  <div class="card {%- if include.theme -%}{{ include.theme | prepend: ' ' }}{%- endif -%}">
+    <header class="card-header">
+      <h1 class="card-title">{{ include.title }}</h1>
+    </header>
+    <section class="card-content {{ include.title | slugify }}">
+      {%- if include.content_src -%}
+      {%- include {{ include.content_src }} -%}
+      {%- else if include.content -%}
+      {%- if include.link_to -%}<a href="{{include.link_to}}">{%- endif -%}
+        {{ include.content }}
+        {%- if include.link_to -%}</a>{%- endif -%}
+      {%- endif-%}
+    </section>
+  </div>
+</div>

@@ -1,0 +1,12 @@
+<header class="site-header">
+  <nav>
+    <a class="site-title" href="/" aria-label="Home">
+      {%- include polaroid.html img_src="gravatar.html" caption_src="full-name.html" -%}
+    </a>
+  </nav>
+  {%- if page.title -%}
+  {%- unless layout.hide_title -%}
+  <h1 class="page-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+  {%- endunless -%}
+  {%- endif -%}
+</header>

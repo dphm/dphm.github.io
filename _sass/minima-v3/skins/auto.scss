@@ -1,0 +1,58 @@
+@charset "utf-8";
+
+@import "colors", "code-light", "code-dark";
+
+$primary-color-light: $purple;
+$secondary-color-light: $blue;
+
+$text-color-light: $gray-darker;
+$background-color-light: $gray-lighter;
+$code-background-color-light: white;
+$border-color-light: #{$gray-light};
+
+:root {
+  --primary-color: #{$primary-color-light};
+  --secondary-color: #{$secondary-color-light};
+
+  --text-color: #{$text-color-light};
+  --background-color: #{$background-color-light};
+  --code-background-color: #{$code-background-color-light};
+  --border-color: #{$border-color-light};
+  --table-zebra-color: #{darken($background-color-light, 5%)};
+}
+
+@include code-light;
+
+// Dark mode
+
+$primary-color-dark: $lavender;
+$secondary-color-dark: $yellow;
+
+$text-color-dark: $gray-light;
+$background-color-dark: $gray-dark;
+$code-background-color-dark: $gray-darker;
+$border-color-dark: $gray-light;
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --primary-color: #{$primary-color-dark};
+    --secondary-color: #{$secondary-color-dark};
+
+    --text-color: #{$text-color-dark};
+    --background-color: #{$background-color-dark};
+    --code-background-color: #{$code-background-color-dark};
+    --border-color: #{$border-color-dark};
+    --table-zebra-color: #{lighten($background-color-dark, 5%)};
+  }
+
+  @include code-dark;
+}
+
+$primary-color: var(--primary-color);
+$secondary-color: var(--secondary-color);
+
+$text-color: var(--text-color);
+$background-color: var(--background-color);
+$code-background-color: var(--code-background-color);
+$border-color: var(--border-color);
+$table-zebra-color: var(--table-zebra-color);
