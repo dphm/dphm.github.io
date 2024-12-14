@@ -89,6 +89,7 @@ blockquote {
 .site-footer {
   display: flex;
   justify-content: space-evenly;
+  flex-wrap: wrap;
   border-top: none;
   background-color: $code-background-color;
 }
