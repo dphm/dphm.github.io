@@ -265,6 +265,80 @@ th {
   }
 }
 
+.resume {
+  h2 {
+    margin: 0 ($spacing-unit / 4);
+  }
+
+  .tooltip {
+    position: relative;
+    display: inline-block;
+    text-decoration: dotted underline #ccc;
+  }
+
+  .tooltip .tooltip-text {
+    visibility: hidden;
+    position: absolute;
+    z-index: 1;
+    left: 0;
+    top: 100%;
+    text-align: center;
+    color: $secondary-color;
+  }
+
+  .tooltip:hover .tooltip-text {
+    visibility: visible;
+  }
+
+  .space {
+    height: $spacing-unit;
+    border-left: 2px $border-color dashed;
+  }
+
+  .noibu {
+    border-left: 2px purple solid;
+  }
+
+  .shopify {
+    border-left: 2px rgb(40, 109, 29) solid;
+  }
+
+  .shopify-a {
+    height: 230px;
+  }
+
+  .shopify-b {
+    height: 520px;
+  }
+
+  .noredink {
+    border-left: 2px rgb(244, 51, 109) solid;
+    height: 230px;
+  }
+
+  .rc {
+    border-left: 2px rgb(35, 160, 80) solid;
+  }
+
+  .rc-a {
+    height: 30px;
+    z-index: 1;
+    position: relative;
+    top: 90px;
+  }
+
+  .rc-b {
+    height: 30px;
+  }
+
+  .mcgill {
+    position: relative;
+    top: -30px;
+    border-left: 2px rgb(237, 27, 47) solid;
+    height: 460px;
+  }
+}
+
 // Modifiers
 
 .bg-primary {
